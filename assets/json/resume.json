@@ -26,7 +26,7 @@
     {
       "name": "I dont work anywhere right now",
       "position": "***",
-      "url": "https://dummy.com",
+      "url": "https://example.com",
       "startDate": "***",
       "endDate": "***",
       "summary": "***",
@@ -37,7 +37,7 @@
     {
       "organization": "I havn't voluntered anywhere i think from the beginning of my life",
       "position": "***"
-      "url": "https://dummy.com",
+      "url": "https://example.com",
       "startDate": "***",
       "endDate": "***",
       "summary": "***",
@@ -48,7 +48,7 @@
     {
       "institution": "University of Science and Technology, Tehran, Iran",
       "location": "Tehran, Iran",
-      "url": "https://dummy.com",
+      "url": "https://example.com",
       "area": "Engineering",
       "studyType": "Bs",
       "startDate": "2021-01-01",
